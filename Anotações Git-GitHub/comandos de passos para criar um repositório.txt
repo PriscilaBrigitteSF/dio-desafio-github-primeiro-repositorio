@@ -1,0 +1,27 @@
+------------------
+Criar repósitorio
+
+1 - mkdir 'nome_da_pasta'
+2 - Iniciar git dentro da pasta
+3 - git init
+4 - visualizar pasta oculta 'ls -a'
+5 - Ctrl + L 'Limpa tela do git bash'
+6 - dentro da pasta criada
+7 - git config --global user.email "aqui vai ser o email"
+8 - git config --global user.name  nome do usuario
+--------------------------------------------------
+Adicionando arquivo
+1 - git add *
+2 - git commit -m "commit inicial"
+-------------------------------------------
+lista de configurações
+git config -- list
+
+---------------------------------------------
+criar novo repositorio no github
+
+git remote add origin https://aqui vai ser o link
+
+git status
+git remote -v
+git push origin master
