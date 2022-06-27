@@ -1,0 +1,7 @@
+1 - link HTTPS "Copia o link no github"
+
+2 - usando o Git dentro da pasta escolhida, clicar com direito na opção Gitbash here.
+
+3 - Com o git aberto digite o camando git clone e cole o link https do github.
+
+exempolo: git clone https://github.com/nomedoarquivo 
